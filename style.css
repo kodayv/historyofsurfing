@@ -1,0 +1,16 @@
+h1{
+  font-family: Bitter, sans-serif;
+  text-align: center;
+  font-size: 280%;
+}
+
+h2{
+  font-family: 'Railway';
+
+}
+body{
+  background-image: url("https://i.ytimg.com/vi/Z9HqnR3JDqw/maxresdefault.jpg");
+}
+.image{
+  width: 100px;
+}
